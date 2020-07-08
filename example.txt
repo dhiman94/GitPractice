@@ -1,2 +1,3 @@
 this is example file
 this is seconf line
+this is 3rd line added
