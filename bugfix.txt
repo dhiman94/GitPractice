@@ -1,1 +1,2 @@
 this is bugfix file
+this is 2nd line
